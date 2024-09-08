@@ -1,0 +1,41 @@
+Date range: 07/08/2024 - 07/12/2024
+Number of available radiologists: 11
+Number of available workstations: 8
+Average time required per scan:
+	Simple: 0.25 hours
+	Medium: 0.33 hours
+	Complex: 0.50 hours
+
+Details of Incoming Scans:
+	Number of Scans: 72
+	Required Man-Hours: 25.92 hours
+	Simple => Count: 24 | Required Man-Hours: 6.00 hours
+	Medium => Count: 24 | Required Man-Hours: 7.92 hours
+	Complex => Count: 24 | Required Man-Hours: 12.00 hours
+
+Details of Allocated Scans:
+	Number of scans allocated: 72
+	Inhouse Man-Hours allocated: 25.92 hours
+	Total In-House Cost: 1440 Pounds
+	Simple => Count: 24 | Allocated Man-Hours: 6.00 hours
+	Medium => Count: 24 | Allocated Man-Hours: 7.92 hours
+	Complex => Count: 24 | Allocated Man-Hours: 12.00 hours
+
+Shift and Scan allotment:
+      Date Radiologist ID     Morning Shift   Afternoon Shift                       Morning Scans                     Afternoon Scans  Pending Hours(Morning) Pending Hours(Afternoon) Cost(Morning) Cost(Afternoon)
+07/08/2024             R1 At workstation W8 At workstation W2          S1,M1,C1,S2,M2,C2,S3,M3,C3          S4,M4,C4,S5,M5,C5,S6,M6,C6                    0.76                     0.76           180             180
+07/08/2024             R3 Working from home                 -          S7,M7,C7,S8,M8,C8,S9,M9,C9                                   -                    0.76                      4.0           180               -
+07/08/2024             R5 Working from home          On leave S10,M10,C10,S11,M11,C11,S12,M12,C12                                   -                    0.76                        -           180               -
+07/08/2024             R8                 - At workstation W1                                   - S13,M13,C13,S14,M14,C14,S15,M15,C15                    4.00                     0.76             -             180
+07/09/2024             R2 Working from home                 - S16,M16,C16,S17,M17,C17,S18,M18,C18                                   -                    0.76                      4.0           180               -
+07/09/2024             R6 At workstation W2 At workstation W1 S19,M19,C19,S20,M20,C20,S21,M21,C21 S22,M22,C22,S23,M23,C23,S24,M24,C24                    0.76                     0.76           180             180
+07/10/2024             R9 At workstation W5 At workstation W2                                   -                                   -                    4.00                      4.0             -               -
+07/10/2024            R10 At workstation W4 At workstation W7                                   -                                   -                    4.00                      4.0             -               -
+07/11/2024             R3                 - At workstation W3                                   -                                   -                    4.00                      4.0             -               -
+07/11/2024             R8 Working from home                 -                                   -                                   -                    4.00                      4.0             -               -
+07/11/2024             R2                 - At workstation W2                                   -                                   -                    4.00                      4.0             -               -
+07/11/2024             R7 Working from home At workstation W7                                   -                                   -                    4.00                      4.0             -               -
+07/12/2024             R4 At workstation W8 At workstation W3                                   -                                   -                    4.00                      4.0             -               -
+07/12/2024            R11 Working from home At workstation W8                                   -                                   -                    4.00                      4.0             -               -
+
+All scans are allocated, no outsourcing required this week!

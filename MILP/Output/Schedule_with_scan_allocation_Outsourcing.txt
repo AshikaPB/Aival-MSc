@@ -1,0 +1,39 @@
+Date range: 07/08/2024 - 07/12/2024
+Number of available radiologists: 3
+Number of available workstations: 8
+Average time required per scan:
+	Simple: 0.25 hours
+	Medium: 0.33 hours
+	Complex: 0.50 hours
+
+Details of Incoming Scans:
+	Number of Scans: 72
+	Required Man-Hours: 25.92 hours
+	Simple => Count: 24 | Required Man-Hours: 6.00 hours
+	Medium => Count: 24 | Required Man-Hours: 7.92 hours
+	Complex => Count: 24 | Required Man-Hours: 12.00 hours
+
+Details of Allocated Scans:
+	Number of scans allocated: 54
+	Inhouse Man-Hours allocated: 19.44 hours
+	Total In-House Cost: 1080 Pounds
+	Simple => Count: 18 | Allocated Man-Hours: 4.50 hours
+	Medium => Count: 18 | Allocated Man-Hours: 5.94 hours
+	Complex => Count: 18 | Allocated Man-Hours: 9.00 hours
+
+Shift and Scan allotment:
+      Date Radiologist ID     Morning Shift   Afternoon Shift                       Morning Scans                     Afternoon Scans  Pending Hours(Morning)  Pending Hours(Afternoon)  Cost(Morning)  Cost(Afternoon)
+07/08/2024             R1 At workstation W7 At workstation W1          S1,M1,C1,S2,M2,C2,S3,M3,C3          S4,M4,C4,S5,M5,C5,S6,M6,C6                    0.76                      0.76            180              180
+07/10/2024            R10 At workstation W8 At workstation W1          S7,M7,C7,S8,M8,C8,S9,M9,C9 S10,M10,C10,S11,M11,C11,S12,M12,C12                    0.76                      0.76            180              180
+07/12/2024            R11 Working from home At workstation W1 S13,M13,C13,S14,M14,C14,S15,M15,C15 S16,M16,C16,S17,M17,C17,S18,M18,C18                    0.76                      0.76            180              180
+
+Details of Unallocated Scans:
+	Number of unallocated scans: 18
+	Unallocated Man-Hours: 6.48 hours
+	Total Outsourcing Cost: 720 Pounds
+	Simple => Count: 6 | Unallocated Man-Hours: 1.50 hours | Outsourcing Cost: 240 pounds
+		Unallocated Scan IDs: S19, S20, S21, S22, S23, S24
+	Medium => Count: 6 | Unallocated Man-Hours: 1.98 hours | Outsourcing Cost: 240 pounds
+		Unallocated Scan IDs: M19, M20, M21, M22, M23, M24
+	Complex => Count: 6 | Unallocated Man-Hours: 3.00 hours | Outsourcing Cost: 240 pounds
+		Unallocated Scan IDs: C19, C20, C21, C22, C23, C24
